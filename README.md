@@ -1,4 +1,29 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# 🚀 Buca Escort – Güvenli ve Gizli Tanışma Hizmetleri 🕶️
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+![Tanıtım](reklam.png)
+
+---
+
+## Hakkımızda
+
+Buca bölgesine özel tanışmalar ve kaliteli vakit geçirmek isteyen yetişkinler için güvenilir ve gizliliğe önem veren bir hizmet sunuyoruz. Tüm süreçlerde karşılıklı güven ve mahremiyet esas alınır.
+
+### Hizmet Özellikleri
+
+- 🔒 Tam gizlilik ilkesi  
+- 👥 Yetişkinlere yönelik özel görüşmeler  
+- 🏨 Otel veya belirlenen özel adreslerde buluşma  
+- 🌐 Çoklu dil desteği: Türkçe, İngilizce, Arapça
+
+---
+
+## İletişim
+
+📱 [WhatsApp & Telegram üzerinden doğrudan iletişim kurun](https://t.me/alvannis)
+
+---
+
+## Faydalı Bağlantılar
+
+- 🔗 [Sıkça Sorulan Sorular](https://t.me/alvannis)  
+- 🗣️ [Destek almak için bize yazın](https://t.me/alvannis)
