@@ -1,6 +1,6 @@
 # 🚀 Buca Escort – Güvenli ve Gizli Tanışma Hizmetleri 🕶️
 
-![Tanıtım](reklam.png)
+[![Tanıtım](reklam.png)](https://pezevenkdayi.xyz)
 
 ---
 
